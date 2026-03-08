@@ -57,16 +57,15 @@ Data Integration Strategy
 In this case, we chose all three data sets because they share a common geographical identifier, states in the United States of America. While the USDA and AIA data sets use state names and abbreviations, respectively, the EPA data set makes use of two-letter state codes. As a result, we normalize state codes in all data sets by aggregating the EPA monthly data into annual data per state, extracting data from the USDA PDF report using Python libraries, and finally merging data sets using pandas with state code as the primary key. 
 
 Timeline
-Week      Task                                                       Description 
-7   Project planning                                   Decide research question and find datasets 
-8   Data acquisition, convert PDF file to csv files    Download datasets, setup GitHub repo and extract tables from PDF 
-9   Spring break 
-10  Data Cleaning & Integration                        Standardize variables in each dataset and handle missing values
-11  Exploratory Data Analysis                          Generate summary statistics and identify potential outliers
-12  Statistical Analysis & Visualization               Calculate correlations and build regression models 
-13  Documentation                                      Write methodology and add any further code comments 
-14  Final Report                                       Compile final findings and write conclusions 
-15  Presentation                                       Create slides, rehearse, prepare for Q&A 
+Week7: Project planning - Decide research question and find datasets 
+Week8: Data acquisition, convert PDF file to csv files - Download datasets, setup GitHub repo and extract tables from PDF 
+Week9: Spring break 
+Week10: Data Cleaning & Integration - Standardize variables in each dataset and handle missing values
+Week11: Exploratory Data Analysis - Generate summary statistics and identify potential outliers
+Week12: Statistical Analysis & Visualization - Calculate correlations and build regression models 
+Week13: Documentation - Write methodology and add any further code comments 
+Week14: Final Repor - Compile final findings and write conclusions 
+Week15: Presentation - Create slides, rehearse, prepare for Q&A 
 
 We will hold weekly team meetings to review progress and coordinate tasks. All work will be tracked through GitHub. 
 
