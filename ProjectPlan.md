@@ -57,6 +57,7 @@ Data Integration Strategy
 In this case, we chose all three data sets because they share a common geographical identifier, states in the United States of America. While the USDA and AIA data sets use state names and abbreviations, respectively, the EPA data set makes use of two-letter state codes. As a result, we normalize state codes in all data sets by aggregating the EPA monthly data into annual data per state, extracting data from the USDA PDF report using Python libraries, and finally merging data sets using pandas with state code as the primary key. 
 
 Timeline
+
 Week7: Project planning - Decide research question and find datasets 
 
 Week8: Data acquisition, convert PDF file to csv files - Download datasets, setup GitHub repo and extract tables from PDF 
