@@ -58,13 +58,21 @@ In this case, we chose all three data sets because they share a common geographi
 
 Timeline
 Week7: Project planning - Decide research question and find datasets 
+
 Week8: Data acquisition, convert PDF file to csv files - Download datasets, setup GitHub repo and extract tables from PDF 
+
 Week9: Spring break 
+
 Week10: Data Cleaning & Integration - Standardize variables in each dataset and handle missing values
+
 Week11: Exploratory Data Analysis - Generate summary statistics and identify potential outliers
+
 Week12: Statistical Analysis & Visualization - Calculate correlations and build regression models 
+
 Week13: Documentation - Write methodology and add any further code comments 
+
 Week14: Final Repor - Compile final findings and write conclusions 
+
 Week15: Presentation - Create slides, rehearse, prepare for Q&A 
 
 We will hold weekly team meetings to review progress and coordinate tasks. All work will be tracked through GitHub. 
