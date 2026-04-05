@@ -1,0 +1,277 @@
+State,Start Date,Quarter,Colonies,Max Colonies,Lost,Percent Lost,Added,Renovated,Percent Renovated
+Alabama,"January 1, 2023",January-March 2023,11000,15500,1400,9,2000,880,6
+Arizona,"January 1, 2023",January-March 2023,34000,34000,510,2,290,80,(Z)
+Arkansas,"January 1, 2023",January-March 2023,21000,23000,2200,10,1200,10,(Z)
+California,"January 1, 2023",January-March 2023,1020000,1330000,196000,15,88000,48000,4
+Colorado,"January 1, 2023",January-March 2023,10500,10500,520,5,520,,
+Connecticut,"January 1, 2023",January-March 2023,3600,4000,360,9,560,70,2
+Florida,"January 1, 2023",January-March 2023,270000,305000,34000,11,51000,18500,6
+Georgia,"January 1, 2023",January-March 2023,121000,121000,13000,11,18500,8000,7
+Idaho,"January 1, 2023",January-March 2023,165000,167000,12500,7,4000,8000,5
+Illinois,"January 1, 2023",January-March 2023,9000,9500,1800,19,1800,320,3
+Indiana,"January 1, 2023",January-March 2023,7000,10000,1300,13,300,40,(Z)
+Iowa,"January 1, 2023",January-March 2023,50000,64000,1700,3,210,240,(Z)
+Kansas,"January 1, 2023",January-March 2023,3300,3900,490,13,940,20,1
+Kentucky,"January 1, 2023",January-March 2023,9500,10500,1100,10,260,80,1
+Louisiana,"January 1, 2023",January-March 2023,29000,38000,4800,13,6000,3700,10
+Maine,"January 1, 2023",January-March 2023,2600,7500,290,4,190,130,2
+Maryland,"January 1, 2023",January-March 2023,6000,6000,1100,18,670,140,2
+Massachusetts,"January 1, 2023",January-March 2023,6000,8000,820,10,200,80,1
+Michigan,"January 1, 2023",January-March 2023,59000,64000,9000,14,330,2100,3
+Minnesota,"January 1, 2023",January-March 2023,41000,57000,1100,2,30,1600,3
+Mississippi,"January 1, 2023",January-March 2023,29000,37000,2300,6,65000,4100,11
+Missouri,"January 1, 2023",January-March 2023,6500,9000,940,10,1400,100,1
+Montana,"January 1, 2023",January-March 2023,23000,51000,70,(Z),,,
+Nebraska,"January 1, 2023",January-March 2023,17000,23000,1100,5,,,
+New Jersey,"January 1, 2023",January-March 2023,12500,14500,1300,9,530,110,1
+New Mexico,"January 1, 2023",January-March 2023,8500,8500,4600,54,460,760,9
+New York,"January 1, 2023",January-March 2023,40000,40000,8000,20,560,510,1
+North Carolina,"January 1, 2023",January-March 2023,26000,30000,4100,14,2200,2800,9
+North Dakota,"January 1, 2023",January-March 2023,82000,89000,2400,3,2700,1000,1
+Ohio,"January 1, 2023",January-March 2023,17500,21000,2500,12,190,160,1
+Oklahoma,"January 1, 2023",January-March 2023,16500,17000,1600,9,10,,
+Oregon,"January 1, 2023",January-March 2023,77000,97000,8000,8,1500,500,1
+Pennsylvania,"January 1, 2023",January-March 2023,27000,29000,4800,17,430,490,2
+South Carolina,"January 1, 2023",January-March 2023,14500,16000,1700,11,2700,800,5
+South Dakota,"January 1, 2023",January-March 2023,93000,93000,2200,2,,,
+Tennessee,"January 1, 2023",January-March 2023,11000,12000,1800,15,2100,40,(Z)
+Texas,"January 1, 2023",January-March 2023,171000,300000,20000,7,62000,8500,3
+Utah,"January 1, 2023",January-March 2023,19000,24000,2600,11,900,360,2
+Vermont,"January 1, 2023",January-March 2023,10000,10000,400,4,30,40,(Z)
+Virginia,"January 1, 2023",January-March 2023,9500,10500,1200,11,470,150,1
+Washington,"January 1, 2023",January-March 2023,65000,99000,13500,14,270,250,(Z)
+West Virginia,"January 1, 2023",January-March 2023,5000,6000,600,10,40,40,1
+Wisconsin,"January 1, 2023",January-March 2023,27000,29000,3300,11,1400,270,1
+Wyoming,"January 1, 2023",January-March 2023,15000,17000,150,1,,,
+Other States,"January 1, 2023",January-March 2023,5,28750,31050,730,2,2510,470
+United States,"January 1, 2023",January-March 2023,2729750,(X),373880,14,324400,113440,4
+Alabama,"April 1, 2023",April-June 2023,16000,16000,2100,13,4800,4200,26
+Arizona,"April 1, 2023",April-June 2023,34000,34000,8500,25,4900,2400,7
+Arkansas,"April 1, 2023",April-June 2023,22000,24000,11000,46,6500,2200,9
+California,"April 1, 2023",April-June 2023,910000,940000,152000,16,139000,112000,12
+Colorado,"April 1, 2023",April-June 2023,10000,33000,1100,3,4500,1500,5
+Connecticut,"April 1, 2023",April-June 2023,4200,4200,230,5,690,800,19
+Florida,"April 1, 2023",April-June 2023,250000,295000,50000,17,58000,23000,8
+Georgia,"April 1, 2023",April-June 2023,129000,132000,31000,23,25000,45000,34
+Idaho,"April 1, 2023",April-June 2023,82000,132000,7000,5,22000,11000,8
+Illinois,"April 1, 2023",April-June 2023,9500,9500,530,6,3300,700,7
+Indiana,"April 1, 2023",April-June 2023,9000,10500,320,3,4100,1500,14
+Iowa,"April 1, 2023",April-June 2023,63000,69000,3400,5,11500,2700,4
+Kansas,"April 1, 2023",April-June 2023,2500,3300,760,23,1600,360,11
+Kentucky,"April 1, 2023",April-June 2023,9000,9500,550,6,1000,450,5
+Louisiana,"April 1, 2023",April-June 2023,39000,44000,2700,6,4400,9000,20
+Maine,"April 1, 2023",April-June 2023,7500,15500,1000,6,510,1100,7
+Maryland,"April 1, 2023",April-June 2023,5500,5500,200,4,710,730,13
+Massachusetts,"April 1, 2023",April-June 2023,7500,10500,1500,14,1300,510,5
+Michigan,"April 1, 2023",April-June 2023,46000,85000,4200,5,9500,3700,4
+Minnesota,"April 1, 2023",April-June 2023,56000,76000,2600,3,12500,1700,2
+Mississippi,"April 1, 2023",April-June 2023,70000,72000,3500,5,12000,8000,11
+Missouri,"April 1, 2023",April-June 2023,9500,10000,390,4,4600,910,9
+Montana,"April 1, 2023",April-June 2023,51000,97000,4500,5,22000,18500,19
+Nebraska,"April 1, 2023",April-June 2023,8000,28000,1200,4,10000,2300,8
+New Jersey,"April 1, 2023",April-June 2023,14000,19500,720,4,1000,520,3
+New Mexico,"April 1, 2023",April-June 2023,4300,4300,230,5,530,250,6
+New York,"April 1, 2023",April-June 2023,31000,60000,1800,3,6500,2100,4
+North Carolina,"April 1, 2023",April-June 2023,28000,28000,2300,8,9000,5500,20
+North Dakota,"April 1, 2023",April-June 2023,62000,410000,23000,6,35000,4200,1
+Ohio,"April 1, 2023",April-June 2023,18500,19500,1200,6,8000,5000,26
+Oklahoma,"April 1, 2023",April-June 2023,10000,13000,320,2,6000,2900,22
+Oregon,"April 1, 2023",April-June 2023,91000,95000,23000,24,29000,31000,33
+Pennsylvania,"April 1, 2023",April-June 2023,25000,29000,1700,6,8000,2200,8
+South Carolina,"April 1, 2023",April-June 2023,17000,17500,1200,7,2800,2600,15
+South Dakota,"April 1, 2023",April-June 2023,13000,146000,2600,2,11500,26000,18
+Tennessee,"April 1, 2023",April-June 2023,12500,13500,920,7,3900,2500,19
+Texas,"April 1, 2023",April-June 2023,340000,360000,16500,5,85000,119000,33
+Utah,"April 1, 2023",April-June 2023,15500,18500,3700,20,9500,2500,14
+Vermont,"April 1, 2023",April-June 2023,9500,9500,160,2,990,210,2
+Virginia,"April 1, 2023",April-June 2023,9000,10500,670,6,4000,1300,12
+Washington,"April 1, 2023",April-June 2023,87000,123000,4400,4,18500,15500,13
+West Virginia,"April 1, 2023",April-June 2023,5500,6500,350,5,1300,1000,15
+Wisconsin,"April 1, 2023",April-June 2023,15500,54000,570,1,5500,1300,2
+Wyoming,"April 1, 2023",April-June 2023,16500,19000,1400,7,5000,2200,12
+Other States,"April 1, 2023",April-June 2023,5,31270,32700,1170,4,2920,3600
+United States,"April 1, 2023",April-June 2023,2706270,(X),378190,14,618350,485640,18
+Alabama,"July 1, 2023",July-September 2023,15000,15000,2400,16,1200,2700,18
+Arizona,"July 1, 2023",July-September 2023,30000,30000,4600,15,3000,790,3
+Arkansas,"July 1, 2023",July-September 2023,19500,34000,1000,3,3600,390,1
+California,"July 1, 2023",July-September 2023,570000,600000,32000,5,21000,61000,10
+Colorado,"July 1, 2023",July-September 2023,23000,26000,6500,25,170,2300,9
+Connecticut,"July 1, 2023",July-September 2023,3700,4100,120,3,140,150,4
+Florida,"July 1, 2023",July-September 2023,245000,290000,34000,12,44000,21000,7
+Georgia,"July 1, 2023",July-September 2023,126000,133000,23000,17,17000,10500,8
+Idaho,"July 1, 2023",July-September 2023,125000,154000,8000,5,1800,11000,7
+Illinois,"July 1, 2023",July-September 2023,12000,12000,950,8,360,870,7
+Indiana,"July 1, 2023",July-September 2023,14500,15500,440,3,150,1100,7
+Iowa,"July 1, 2023",July-September 2023,71000,71000,1800,3,670,720,1
+Kansas,"July 1, 2023",July-September 2023,3300,5500,400,7,150,80,1
+Kentucky,"July 1, 2023",July-September 2023,8000,8000,740,9,660,540,7
+Louisiana,"July 1, 2023",July-September 2023,46000,46000,3300,7,4600,6000,13
+Maine,"July 1, 2023",July-September 2023,6000,6000,1400,23,40,220,4
+Maryland,"July 1, 2023",July-September 2023,4100,4200,170,4,400,840,20
+Massachusetts,"July 1, 2023",July-September 2023,9000,9000,380,4,160,470,5
+Michigan,"July 1, 2023",July-September 2023,91000,105000,8500,8,1600,4800,5
+Minnesota,"July 1, 2023",July-September 2023,71000,72000,5500,8,600,2200,3
+Mississippi,"July 1, 2023",July-September 2023,27000,28000,4100,15,1100,120,(Z)
+Missouri,"July 1, 2023",July-September 2023,13500,13500,880,7,700,320,2
+Montana,"July 1, 2023",July-September 2023,84000,98000,6500,7,2200,6000,6
+Nebraska,"July 1, 2023",July-September 2023,32000,52000,4800,9,540,3100,6
+New Jersey,"July 1, 2023",July-September 2023,20000,22000,440,2,1000,1300,6
+New Mexico,"July 1, 2023",July-September 2023,4600,6000,500,8,1000,450,8
+New York,"July 1, 2023",July-September 2023,65000,65000,2900,4,2000,5500,8
+North Carolina,"July 1, 2023",July-September 2023,26000,26000,3400,13,2400,2800,11
+North Dakota,"July 1, 2023",July-September 2023,420000,480000,62000,13,9000,13500,3
+Ohio,"July 1, 2023",July-September 2023,26000,27000,1600,6,380,1500,6
+Oklahoma,"July 1, 2023",July-September 2023,2500,3200,200,6,20,30,1
+Oregon,"July 1, 2023",July-September 2023,101000,112000,11500,10,5000,28000,25
+Pennsylvania,"July 1, 2023",July-September 2023,32000,32000,1300,4,1400,1000,3
+South Carolina,"July 1, 2023",July-September 2023,15000,16000,2300,14,1100,700,4
+South Dakota,"July 1, 2023",July-September 2023,141000,200000,20000,10,750,2300,1
+Tennessee,"July 1, 2023",July-September 2023,13000,14500,1900,13,900,1100,8
+Texas,"July 1, 2023",July-September 2023,188000,205000,7500,4,2800,1100,1
+Utah,"July 1, 2023",July-September 2023,22000,22000,2300,10,5500,1500,7
+Vermont,"July 1, 2023",July-September 2023,10000,10000,170,2,680,80,1
+Virginia,"July 1, 2023",July-September 2023,11500,11500,1000,9,880,690,6
+Washington,"July 1, 2023",July-September 2023,67000,82000,2400,3,1900,3300,4
+West Virginia,"July 1, 2023",July-September 2023,7500,8000,230,3,400,790,10
+Wisconsin,"July 1, 2023",July-September 2023,59000,59000,7000,12,1500,3400,6
+Wyoming,"July 1, 2023",July-September 2023,23000,23000,860,(Z),1600,2000,9
+Other States,"July 1, 2023",July-September 2023,5,20160,21660,740,3,1260,950
+United States,"July 1, 2023",July-September 2023,2923860,(X),281720,10,147310,209200,7
+Alabama,"October 1, 2023",October-December 2023,10500,10500,760,7,420,80,1
+Arizona,"October 1, 2023",October-December 2023,28000,28000,5500,20,3200,700,3
+Arkansas,"October 1, 2023",October-December 2023,37000,37000,3100,8,330,10,(Z)
+California,"October 1, 2023",October-December 2023,570000,1000000,64000,6,60000,52000,5
+Colorado,"October 1, 2023",October-December 2023,15500,15500,980,6,,180,1
+Connecticut,"October 1, 2023",October-December 2023,4100,4100,480,12,,10,(Z)
+Florida,"October 1, 2023",October-December 2023,305000,335000,33000,10,22000,19500,6
+Georgia,"October 1, 2023",October-December 2023,127000,140000,25000,18,4000,15500,11
+Idaho,"October 1, 2023",October-December 2023,148000,215000,4000,2,1400,5000,2
+Illinois,"October 1, 2023",October-December 2023,10500,11000,740,7,200,210,2
+Indiana,"October 1, 2023",October-December 2023,15000,15000,4100,27,150,620,4
+Iowa,"October 1, 2023",October-December 2023,70000,70000,1700,2,530,120,(Z)
+Kansas,"October 1, 2023",October-December 2023,3300,3300,800,24,110,40,1
+Kentucky,"October 1, 2023",October-December 2023,8000,8000,860,11,270,660,8
+Louisiana,"October 1, 2023",October-December 2023,39000,44000,1700,4,1100,3200,7
+Maine,"October 1, 2023",October-December 2023,4300,4300,220,5,260,60,1
+Maryland,"October 1, 2023",October-December 2023,4400,6500,1900,29,500,340,5
+Massachusetts,"October 1, 2023",October-December 2023,5500,5500,590,11,40,70,1
+Michigan,"October 1, 2023",October-December 2023,75000,75000,7500,10,260,3200,4
+Minnesota,"October 1, 2023",October-December 2023,57000,57000,6000,11,1000,290,1
+Mississippi,"October 1, 2023",October-December 2023,25000,34000,3500,10,440,1800,5
+Missouri,"October 1, 2023",October-December 2023,13500,14000,600,4,30,750,5
+Montana,"October 1, 2023",October-December 2023,84000,87000,2600,3,420,3300,4
+Nebraska,"October 1, 2023",October-December 2023,39000,42000,5500,13,940,560,1
+New Jersey,"October 1, 2023",October-December 2023,23000,23000,770,3,530,120,1
+New Mexico,"October 1, 2023",October-December 2023,6500,6500,1100,17,30,110,2
+New York,"October 1, 2023",October-December 2023,54000,58000,5000,9,420,1300,2
+North Carolina,"October 1, 2023",October-December 2023,25000,27000,2900,11,430,500,2
+North Dakota,"October 1, 2023",October-December 2023,360000,365000,8000,2,10000,7500,2
+Ohio,"October 1, 2023",October-December 2023,13000,16000,1200,8,90,270,2
+Oklahoma,"October 1, 2023",October-December 2023,1700,17500,100,1,10,20,(Z)
+Oregon,"October 1, 2023",October-December 2023,107000,113000,6500,6,760,10000,9
+Pennsylvania,"October 1, 2023",October-December 2023,25000,25000,2300,9,1300,820,3
+South Carolina,"October 1, 2023",October-December 2023,15000,18000,1300,7,530,1200,7
+South Dakota,"October 1, 2023",October-December 2023,182000,188000,2600,1,250,1400,1
+Tennessee,"October 1, 2023",October-December 2023,12500,12500,1900,15,900,250,2
+Texas,"October 1, 2023",October-December 2023,75000,220000,9500,4,400,480,(Z)
+Utah,"October 1, 2023",October-December 2023,23000,23000,2700,12,390,20,(Z)
+Vermont,"October 1, 2023",October-December 2023,6500,6500,90,1,500,,
+Virginia,"October 1, 2023",October-December 2023,10500,10500,2100,20,170,450,4
+Washington,"October 1, 2023",October-December 2023,80000,92000,19000,21,40,1700,2
+West Virginia,"October 1, 2023",October-December 2023,8000,8000,930,12,2400,230,3
+Wisconsin,"October 1, 2023",October-December 2023,49000,51000,6500,13,390,380,1
+Wyoming,"October 1, 2023",October-December 2023,18500,18500,1700,(Z),20,,
+Other States,"October 1, 2023",October-December 2023,5,22160,22160,3200,14,1680,4350
+United States,"October 1, 2023",October-December 2023,2815960,(X),254520,9,118840,139300,5
+Alabama,"January 1, 2024",January-March 2024,9500,11500,1600,14,2400,860,7
+Arizona,"January 1, 2024",January-March 2024,26000,29000,1900,7,3300,670,2
+Arkansas,"January 1, 2024",January-March 2024,16000,21000,1700,8,260,120,1
+California,"January 1, 2024",January-March 2024,990000,1250000,210000,17,210000,135000,11
+Colorado,"January 1, 2024",January-March 2024,5500,10500,370,4,200,,(Z)
+Connecticut,"January 1, 2024",January-March 2024,3200,4000,100,3,120,,
+Florida,"January 1, 2024",January-March 2024,310000,310000,24000,8,28000,10500,3
+Georgia,"January 1, 2024",January-March 2024,117000,125000,28000,22,34000,2000,2
+Idaho,"January 1, 2024",January-March 2024,195000,195000,23000,12,4200,760,(Z)
+Illinois,"January 1, 2024",January-March 2024,10000,10000,2300,23,800,300,3
+Indiana,"January 1, 2024",January-March 2024,8000,9500,410,4,510,,(Z)
+Iowa,"January 1, 2024",January-March 2024,56000,59000,1900,3,2700,,(Z)
+Kansas,"January 1, 2024",January-March 2024,2400,4000,270,7,170,10,(Z)
+Kentucky,"January 1, 2024",January-March 2024,6500,6500,660,10,1100,10,(Z)
+Louisiana,"January 1, 2024",January-March 2024,44000,44000,8500,19,5500,2300,5
+Maine,"January 1, 2024",January-March 2024,1400,1400,300,21,400,140,10
+Maryland,"January 1, 2024",January-March 2024,5000,5000,660,13,1700,920,18
+Massachusetts,"January 1, 2024",January-March 2024,4800,4800,650,14,750,640,13
+Michigan,"January 1, 2024",January-March 2024,67000,90000,3000,3,10,,
+Minnesota,"January 1, 2024",January-March 2024,25000,85000,830,1,900,210,(Z)
+Mississippi,"January 1, 2024",January-March 2024,28000,42000,3700,9,10500,1500,4
+Missouri,"January 1, 2024",January-March 2024,9500,11000,1100,10,600,40,(Z)
+Montana,"January 1, 2024",January-March 2024,36000,41000,50,(Z),60,,(Z)
+Nebraska,"January 1, 2024",January-March 2024,17500,19500,1200,6,,,
+New Jersey,"January 1, 2024",January-March 2024,12500,14500,1200,8,990,320,2
+New Mexico,"January 1, 2024",January-March 2024,4300,4300,1200,28,10,,
+New York,"January 1, 2024",January-March 2024,40000,40000,2300,6,140,350,1
+North Carolina,"January 1, 2024",January-March 2024,25000,27000,5500,20,5000,3100,11
+North Dakota,"January 1, 2024",January-March 2024,65000,78000,8500,11,,,
+Ohio,"January 1, 2024",January-March 2024,15000,27000,2100,8,600,150,1
+Oklahoma,"January 1, 2024",January-March 2024,17500,18000,2200,12,60,320,2
+Oregon,"January 1, 2024",January-March 2024,90000,101000,8000,8,1300,5500,5
+Pennsylvania,"January 1, 2024",January-March 2024,24000,26000,2800,11,130,600,2
+South Carolina,"January 1, 2024",January-March 2024,14000,14000,870,6,2800,820,6
+South Dakota,"January 1, 2024",January-March 2024,68000,78000,2000,3,40,50,(Z)
+Tennessee,"January 1, 2024",January-March 2024,11500,11500,1700,15,830,170,1
+Texas,"January 1, 2024",January-March 2024,200000,290000,28000,10,77000,46000,16
+Utah,"January 1, 2024",January-March 2024,10000,17000,980,6,460,120,1
+Vermont,"January 1, 2024",January-March 2024,7000,8000,230,3,70,20,(Z)
+Virginia,"January 1, 2024",January-March 2024,7000,9500,1200,13,640,200,2
+Washington,"January 1, 2024",January-March 2024,45000,107000,6500,6,3500,570,1
+West Virginia,"January 1, 2024",January-March 2024,6000,7500,640,9,300,10,(Z)
+Wisconsin,"January 1, 2024",January-March 2024,31000,55000,1600,3,600,120,(Z)
+Wyoming,"January 1, 2024",January-March 2024,1900,13000,490,4,,10,(Z)
+Other States,"January 1, 2024",January-March 2024,5,17350,18730,2610,14,1450,660
+United States,"January 1, 2024",January-March 2024,2705350,(X),396820,15,404100,215070,8
+Alabama,"April 1, 2024",April-June 2024,12500,13000,1300,10,2900,2700,21
+Arizona,"April 1, 2024",April-June 2024,30000,32000,13500,42,18500,7000,22
+Arkansas,"April 1, 2024",April-June 2024,19500,21000,2800,13,5000,430,2
+California,"April 1, 2024",April-June 2024,890000,930000,54000,6,148000,113000,12
+Colorado,"April 1, 2024",April-June 2024,10500,18500,290,2,1100,450,2
+Connecticut,"April 1, 2024",April-June 2024,4100,4100,140,3,960,770,19
+Florida,"April 1, 2024",April-June 2024,280000,285000,42000,15,60000,11000,4
+Georgia,"April 1, 2024",April-June 2024,131000,133000,13000,10,16000,10500,8
+Idaho,"April 1, 2024",April-June 2024,112000,130000,8000,6,26000,29000,22
+Illinois,"April 1, 2024",April-June 2024,8500,8500,800,9,4000,1700,20
+Indiana,"April 1, 2024",April-June 2024,9500,10000,420,4,3200,1000,10
+Iowa,"April 1, 2024",April-June 2024,45000,46000,3300,7,6000,9000,20
+Kansas,"April 1, 2024",April-June 2024,3900,6000,480,8,2100,960,16
+Kentucky,"April 1, 2024",April-June 2024,7000,17000,1200,7,1000,600,4
+Louisiana,"April 1, 2024",April-June 2024,36000,36000,1800,5,3700,300,1
+Maine,"April 1, 2024",April-June 2024,1500,9500,850,9,1100,370,4
+Maryland,"April 1, 2024",April-June 2024,6000,6000,320,5,2900,700,12
+Massachusetts,"April 1, 2024",April-June 2024,4900,5500,220,4,790,630,11
+Michigan,"April 1, 2024",April-June 2024,87000,95000,8000,8,21000,15500,16
+Minnesota,"April 1, 2024",April-June 2024,86000,112000,1800,2,20000,11000,10
+Mississippi,"April 1, 2024",April-June 2024,49000,49000,5000,10,13500,6000,12
+Missouri,"April 1, 2024",April-June 2024,10500,10500,540,5,2000,480,5
+Montana,"April 1, 2024",April-June 2024,20000,92000,520,1,11000,10000,11
+Nebraska,"April 1, 2024",April-June 2024,11000,24000,1200,5,10500,9500,40
+New Jersey,"April 1, 2024",April-June 2024,14500,15000,710,5,2300,640,4
+New Mexico,"April 1, 2024",April-June 2024,2000,2000,290,15,1100,540,27
+New York,"April 1, 2024",April-June 2024,31000,50000,1600,3,3500,3000,6
+North Carolina,"April 1, 2024",April-June 2024,26000,26000,1700,7,6000,5000,19
+North Dakota,"April 1, 2024",April-June 2024,49000,395000,16000,4,7000,22000,6
+Ohio,"April 1, 2024",April-June 2024,26000,26000,660,3,4900,4700,18
+Oklahoma,"April 1, 2024",April-June 2024,13000,15500,1300,8,7500,4100,26
+Oregon,"April 1, 2024",April-June 2024,95000,105000,9000,9,21000,13500,13
+Pennsylvania,"April 1, 2024",April-June 2024,22000,25000,1600,6,5500,1500,6
+South Carolina,"April 1, 2024",April-June 2024,13500,14500,430,3,2200,4900,34
+South Dakota,"April 1, 2024",April-June 2024,16500,183000,5500,3,16500,1900,1
+Tennessee,"April 1, 2024",April-June 2024,10500,12000,800,7,1400,670,6
+Texas,"April 1, 2024",April-June 2024,285000,295000,43000,15,98000,173000,59
+Utah,"April 1, 2024",April-June 2024,16500,20000,1500,8,4400,2000,10
+Vermont,"April 1, 2024",April-June 2024,8000,8000,130,2,270,320,4
+Virginia,"April 1, 2024",April-June 2024,9000,9500,450,5,3000,2000,21
+Washington,"April 1, 2024",April-June 2024,106000,128000,35000,27,20000,24000,19
+West Virginia,"April 1, 2024",April-June 2024,6500,6500,380,6,1100,520,8
+Wisconsin,"April 1, 2024",April-June 2024,55000,67000,3800,6,20000,11000,16
+Wyoming,"April 1, 2024",April-June 2024,12000,21000,1400,7,7500,1800,9
+Other States,"April 1, 2024",April-June 2024,5,16970,23710,1460,6,3000,2110
+United States,"April 1, 2024",April-June 2024,2709370,(X),288190,11,617420,521790,19
