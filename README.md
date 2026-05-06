@@ -21,7 +21,7 @@
 
 # Data Profile: 
 
-## **Data profile overview :** There are two primary data sources used: (1)The USDA National Agricultural Statistics Service (NASS) Honey Bee Colonies Report, and (2)The EPA Air Quality System (AQS) daily monitoring data.
+**Data profile overview :** There are two primary data sources used: (1)The USDA National Agricultural Statistics Service (NASS) Honey Bee Colonies Report, and (2)The EPA Air Quality System (AQS) daily monitoring data.
 
 ### **Dataset 1:** USDA NASS Honey Bee Colonies Report: 
 
