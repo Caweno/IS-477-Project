@@ -63,6 +63,18 @@ As for the ethical concerns, there is a potential ethical concern for each datas
 
 # Findings:
 
+The analysis aims to find the correlations between five major air pollutants: Ozone, Pm2.5, Carbon monoxide, NO₂, and SO₂ and three honeybee colony metrics: Percent Lost, Percent Renovated, and Net Change Rate. We used a panel dataset including approximately 161-167 state-quarter observations and after generating all the necessary visualizations and analyzing their results, the statistically significant patterns are finally found.  
+
+First of all, the strongest and most obvious finding is that: PM2.5 shows a positive correlation with Percent Lost (r = +0.27, p ≈ 5 × 10⁻⁴). This finding keeps remaing significant even after applying a Bonferroni correlation for multiple many other comparisons. What's more, this relationship is further supported by the state-average analysis (r = +0.37, p ≈ 0.013; Spearman ρ = +0.48, p ≈ 0.001). this is the only pollutant that indicates a direct and robust relationship with honeybee colony changes. Additionally, PM2.5 is negatively associated with Net Change Rate (r = −0.20, p ≈ 0.010), which means that higher particulate pollution will lead to negative colony behaviors. This finding is biologicall plausible since pollutant particles like PM2.5 can easily interfere with bees’ olfacotry navigation, therefore impair their respiratory function, and eventually reducing their foraging efficiency and survival.  
+
+Secondly, ozone, on the other hand, presents the largest positive correlation with Net Change Rate (r = +0.48, p ≈ 4 × 10⁻¹¹) and Percent Renovated (r = +0.37, p ≈ 1 × 10⁻⁵). It is also negatively associated with Percent Lost (r = −0.19, p ≈ 0.013; Spearman ρ = −0.33, p ≈ 1 × 10⁻⁵). While these results might initially suggest that Ozone benefits honeybee colonies, several other factors cannnot be ignored, these results might be driven by ecological confounding. Ozone concentrations tend to be higher in warm and sunny regions like sounthern and western United States. Conditions like these will be more favorable for agricultural growth and bee activities, which can partially explain why the phenomenon of increasing colony growth and renovation is obvious in these regions. So, the positive correlation of Ozone is pausibly more likely to be explained by climate and landuse factors rather than any “possible” protective effect of ozone itself.  
+
+Thirdly, carbon monoxide and nitrogen dioxide show weaker but directionally consistent positive associations with Percent Lost in the data (CO: r = +0.23, p ≈ 0.003; NO₂: r = +0.18, p ≈ 0.020). However, these relationships are not statistically significant in the state-average analysis and we eventually decided not to move on with these particles for multiple testing. Based on the current association, these patterns are likely resulted by underlying urbanization gradients, where higher pollution levels can lead to environmental stressors such as habitat fragmentation, rather than direct causal effects. 
+
+Finally, sulfur dioxide exhibits minimal association with colony losses (r ≈ 0), indicating that there is no reliable relationship. 
+
+Overall, among the 15 tested hypotheses, only three relationships remain significant after Bonferroni correction: Ozone and Net Change Rate; Ozone and Percent Renovated; and PM2.5 and Percent Lost. And in these three relationships, the PM2.5–Percent Lost relationship is the most credible, as it is consistent across multiple analytical processes and aligns with established biological mechanisms. 
+
 # Future work:
 
 # Challenges:
