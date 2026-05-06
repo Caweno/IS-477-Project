@@ -78,9 +78,3 @@ Overall, among the 15 tested hypotheses, only three relationships remain signifi
 # Future work:
 
 # Challenges:
-
-# Reproducing:
-
-# References:
-
-# 
